@@ -1,0 +1,15 @@
+
+fetch mozilla -> tim kiem
+npm start - chay api - db.json
+
+Promise
+- Sync : Đồng bộ hóa
+- Async : Không đồng bộ
+- Nỗi đau
+- Lý thuyết, Cách hoạt động
+- Thực hành , ví dụ
+
+tổng quan
+map
+promise
+fetch

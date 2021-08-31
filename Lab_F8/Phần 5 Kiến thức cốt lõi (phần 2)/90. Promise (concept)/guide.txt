@@ -1,0 +1,7 @@
+Promise
+- Sync : Đồng bộ hóa
+- Async : Không đồng bộ
+- Nỗi đau
+- Lý thuyết, Cách hoạt động
+- Thực hành , ví dụ
+

@@ -1,0 +1,21 @@
+1. Let, const
+2. Template Literals
+3. Multi-line String
+4. Arrow function
+5. Classes
+6. Enhanced object literals
+7. Default parameter values
+8. Destructuring
+9. Rest parameters (...) --> ok
+10. Spread (...) --> ok
+11. Tagged template literal
+12. Modules
+
+// 1. Var / Let, Const: Scope, Hosting
+// 2. Const / Var, Let : Assignment
+
+// code block: if else, loop, {},....
+
+ const có nghĩa là constant : không thay đổi
+
+=> gọi là arrow

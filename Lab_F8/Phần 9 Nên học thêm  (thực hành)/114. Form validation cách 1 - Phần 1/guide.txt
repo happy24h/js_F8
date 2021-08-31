@@ -1,0 +1,2 @@
+onblur bấm ra ngoài input hiện ra html dom hoặc đối tượng(js)
+onfocus bấm vào trọng tâm  input hiện ra html dom đối tượng (js)
