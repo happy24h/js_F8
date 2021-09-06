@@ -1,0 +1,6 @@
+ // Destructuring :  Phá hủy
+ // rest parameters : thông số phần còn lại
+ // rest : còn lại (a, ...rest)
+ Có hai loại Destructuring: Destructuring Objects và Destructuring Arrays.
+ Destructuring Objects:đối tượng phá hủy
+ Destructuring Arrays: hủy cấu trúc mảng

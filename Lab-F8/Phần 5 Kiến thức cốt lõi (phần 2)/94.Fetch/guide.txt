@@ -1,0 +1,8 @@
+// API (URL) -> Application programing interface
+
+Cổng giao tiếp giữa các PM
+
+Backend (OK) -> API (URL) -> Fetch -> JSON/XML
+JSON.parse -> Javascript types
+Render ra giao diện với HTML
+

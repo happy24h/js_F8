@@ -1,0 +1,9 @@
+// innerHTML, outerHTML
+
+innerHTML
+Lấy bên trong element và attribute text
+đặt lại element và attribute rồi chèn vào giá trị cũ
+( Lấy ở đâu đặt lại ở đấy )
+outerHTML
+Lấy bên ngoài element và attribute , text
+đặt lại element va attribute rồi chèn vào giá trị cũ
